@@ -1,6 +1,6 @@
 # Option-Pricing-and-Greeks
 
-This project explores and compares multiple option pricing models—including **Black-Scholes**, **Binomial Trees**, **Monte Carlo Simulation**, and **Heston Stochastic Volatility**—along with real-world volatility forecasting via **GARCH(1,1)**. It also computes the **Greeks** for sensitivity analysis.
+This project explores and compares multiple option pricing models, including **Black-Scholes**, **Binomial Trees**, **Monte Carlo Simulation**, and **Heston Stochastic Volatility**—along with real-world volatility forecasting via **GARCH(1,1)**. It also computes the **Greeks** for sensitivity analysis.
 
 ---
 
